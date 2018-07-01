@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "524154846115",
+    "firebase_url": "https://textreg-fe60d.firebaseio.com",
+    "project_id": "textreg-fe60d",
+    "storage_bucket": "textreg-fe60d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524154846115:android:9c5c0f3070ef8af9",
+        "android_client_info": {
+          "package_name": "com.aswin.textrecg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524154846115-oj9ieskhu1h1b1sg0oer4gshbgdtvi4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFcUliJuoEUhaPcPdFEWfIFbdNLR2JI4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
